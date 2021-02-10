@@ -63,4 +63,4 @@ alice.getMainInfo()
 alice.getRaplic()
 
 let kate = new MedSister('Kate', 'Brown', 19, 12)
-kate.enlargeBreasts(12)
+
