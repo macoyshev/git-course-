@@ -64,6 +64,3 @@ alice.getRaplic()
 
 let kate = new MedSister('Kate', 'Brown', 19, 12)
 kate.enlargeBreasts(12)
-console.log(
-  JSON.stringify(kate)
-);
